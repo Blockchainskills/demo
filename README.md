@@ -1,3 +1,4 @@
-# demo
+Demo for github
 i will learn github here
-new file
+and will teach you 
+so github is a great platform
